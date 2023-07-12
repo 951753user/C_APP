@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "802626980281",
+    "project_id": "crick-11-live",
+    "storage_bucket": "crick-11-live.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802626980281:android:afc8eebbf4ef1342b54e68",
+        "android_client_info": {
+          "package_name": "com.nk.crick11live"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802626980281-uvrr4n3di5rpn4fro3sf46crhvrrj1a8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4C6C7dWv8KFJToH8onva3Y96nFRdAfds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802626980281-uvrr4n3di5rpn4fro3sf46crhvrrj1a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
